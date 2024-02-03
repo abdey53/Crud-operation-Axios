@@ -1,0 +1,85 @@
+{
+    "employee" : [
+        {
+            "id" : 1,
+            "name" : "abdeyali",
+            "username":"aaaa",
+            "email": "abdey@gmail.com",
+            "phone":"28233992039",
+            "age" :"21"
+        },
+        {
+            "id" : 2,
+            "name" : "nilesh",
+            "username":"aaaa",
+            "email": "abdey@gmail.com",
+            "phone":"28233992039",
+            "age" : "22"
+        },
+        {
+            "id" : 3,
+            "name" : "kartik",
+            "username":"aaaa",
+            "email": "abdey@gmail.com",
+            "phone":"28233992039",
+            "age" :" 20"
+        },
+        {
+            "id" : 4,
+            "name" : "arjun",
+            "username":"aaaa",
+            "email": "abdey@gmail.com",
+            "phone":"28233992039",
+            "age" : "25"
+        },
+        {
+            "id" : 5,
+            "name" : "arjun",
+            "username":"aaaa",
+            "email": "abdey@gmail.com",
+            "phone":"28233992039",
+            "age" : "25"
+        },
+        {
+            "id" : 6,
+            "name" : "arjun",
+            "username":"aaaa",
+            "email": "abdey@gmail.com",
+            "phone":"28233992039",
+            "age" : "25"
+        },
+        {
+            "id" : 7,
+            "name" : "arjun",
+            "username":"aaaa",
+            "email": "abdey@gmail.com",
+            "phone":"28233992039",
+            "age" : "25"
+        },
+        {
+            "id" : 8,
+            "name" : "arjun",
+            "username":"aaaa",
+            "email": "abdey@gmail.com",
+            "phone":"28233992039",
+            "age" : "25"
+        },
+        {
+            "id" : 9,
+            "name" : "arjun",
+            "username":"aaaa",
+            "email": "abdey@gmail.com",
+            "phone":"28233992039",
+            "age" : "25"
+        },
+        {
+            "id" : 10,
+            "name" : "arjun",
+            "username":"aaaa",
+            "email": "abdey@gmail.com",
+            "phone":"28233992039",
+            "age" : "25"
+        }
+        
+    ]
+}
